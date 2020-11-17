@@ -1,0 +1,1 @@
+//  Reducer reduces all the actions and applies corresponding changes to store. These reducers are later merged into a root-reducer redux’s combineReducers function.
